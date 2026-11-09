@@ -1,0 +1,7 @@
+Artificial Intelligence in Healthcare
+
+Artificial intelligence is changing the way hospitals diagnose diseases and plan treatment. Machine learning models can analyse thousands of medical images in a few minutes and highlight areas that a doctor should examine more closely. This helps radiologists to detect conditions such as lung cancer and diabetic eye disease at an early stage, when treatment is most effective.
+
+Another important use of AI is in predicting patient outcomes. By studying electronic health records, algorithms can estimate which patients are at risk of complications after surgery. Hospitals can then assign extra nurses and monitoring equipment to those patients, which reduces emergency admissions and saves valuable resources.
+
+Despite these benefits, there are serious concerns. Medical data is highly sensitive, and any leak can harm patients. Models trained on data from one population may also perform poorly on another, leading to unfair results. For this reason, doctors must always review the suggestions of an AI system before acting on them.

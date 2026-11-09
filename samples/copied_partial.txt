@@ -1,0 +1,7 @@
+Essay: Technology and Modern Medicine
+
+Modern hospitals are adopting many new tools. Artificial intelligence is changing the way hospitals diagnose diseases and plan treatment. Machine learning models can analyse thousands of medical images in a few minutes and highlight areas that a doctor should examine more closely. This helps radiologists to detect conditions such as lung cancer and diabetic eye disease at an early stage, when treatment is most effective.
+
+Prediction is another strong area. Using patient files stored on computers, software can guess which people may face problems after an operation. Hospitals can then assign extra nurses and monitoring equipment to those patients, which reduces emergency admissions and saves valuable resources.
+
+In my opinion the biggest challenge is trust. Patients want to know who can see their records, and engineers must prove that their systems work for every community. Cooperation between hospitals, universities and governments will decide how fast this technology spreads.
