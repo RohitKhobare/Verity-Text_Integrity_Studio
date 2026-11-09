@@ -11,6 +11,10 @@ A local document-similarity screening application built with **Python** and **St
 | **Name**  | Rohit Khobare              |
 | **Email** | rohitkhobare2005@gmail.com |
 
+## Deployment
+
+- https://verity-text-integrity-studio.streamlit.app/
+  
 ## Project at a glance
 
 - Compare two documents using a sample, pasted text, or an uploaded text/PDF file.
